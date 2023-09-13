@@ -4,22 +4,21 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://raw.github.com/WwZzz/myfigs/blob/master/asdgsdfgsdfvzx.jpg" class="floatpic" width="360" height="480">
 
-Here is **Hanlin Cai (Lance, 蔡汉霖)**.
+Here is **Zheng Wang (王铮)**.
 
-I am a senior student majoring in **Automation** at Fuzhou University and **Robotics** at Maynooth University (Ireland, Combined Degrees). Currently, I am working as a research assistant in the **IACTIP Lab** (Provincial Key), advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). Here is [[my CV](https://caihanlin.com/file/CV-HanlinCAI.pdf)].
+I am currently a ph.D. candidate student majoring in **Computer Science** at Xiamen University. Currently, I am working  in the **ASC Lab** advised by [Prof. Cheng Wang](http://chwang.xmu.edu.cn/). 
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+[//]: # (**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**)
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - May 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Visiting)
-- Expect to apply for a one-year MSc in the UK and will graduate in 2025. Looking for PhD position after MSc!
+- **Sep 2016 - June 2020:** Xiamen University (B.E.)
+- **Sep 2020 - June 2022:** Xiamen University (M.S.)
+- **Sep 2022 - Now :** Xiamen University (ph.D. Candidate)
 
 <br>
 
@@ -27,22 +26,16 @@ I am a senior student majoring in **Automation** at Fuzhou University and **Robo
 
 ## Research Interests
 
-- Industrial IoT System
-- Bluetooth Low Energy
-- Applied Machine Learning
-
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+- Federated Learning
+- Trustworthy AI
+- Deep Learning
 
 <br>
 
 ---
 
 ## News and Updates
-
-- **Sep 2023：**Our works [DefenderIoT](https://fzuiot.site/) has been officially publicized by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023.
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Visiting Research Intern at Cambridge University, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
-- If you are interested in my works, please feel free to book an [[online talk with me](https://calendly.com/lancecai/meet-with-lance)].
+- **Jun 2023：**Our work [FLGo](https://arxiv.org/abs/2306.12079) was accepted by FL-IJCAI 2023 .
+- **Nov 2023：**Our work [FedGS](https://arxiv.org/abs/2211.13975) was accepted by AAAI 2023 (Oral).
+- **Apr 2021：**Our work [FedFV](https://arxiv.org/abs/2104.14937) was accepted by IJCAI 2021.
+- If you are interested in my works, please contact with me.
