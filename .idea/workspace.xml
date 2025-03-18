@@ -1,28 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="update info">
+    <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="update template">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/CV-HanlinCAI.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/Resume-HanlinCAI.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/awards-zh.md" beforeDir="false" afterPath="$PROJECT_DIR$/file/awards-zh.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/publications-zh.md" beforeDir="false" afterPath="$PROJECT_DIR$/file/publications-zh.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file/蔡汉霖简历.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/MCM-figure3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/caihanlin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/cat.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fav.ico" beforeDir="false" afterPath="$PROJECT_DIR$/images/fav.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/fav.png" beforeDir="false" afterPath="$PROJECT_DIR$/images/fav.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/hanlin.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/iot-manager.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/openiot-system.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/prelection1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/resnet-ahp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/speech1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/speech3.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/surfing1.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/swimming.JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/images/swimming2.JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +20,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
   <component name="ProjectId" id="2GoDgBPFljLklRmMhEeS4qFDqLp" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,9 +37,24 @@
     "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
     "WebServerToolWindowPanel.toolwindow.show.date": "false",
     "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
-    "WebServerToolWindowPanel.toolwindow.show.size": "false"
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-PY-242.23726.102" />
+        <option value="bundled-python-sdk-5e1850174b45-399fe30bd8c1-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-242.23726.102" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +65,7 @@
       <updated>1667046162046</updated>
       <workItem from="1667046175596" duration="621000" />
       <workItem from="1694587319619" duration="3125000" />
+      <workItem from="1742260195763" duration="1429000" />
     </task>
     <task id="LOCAL-00001" summary="update info">
       <created>1694592573510</created>
@@ -70,7 +74,15 @@
       <option name="project" value="LOCAL" />
       <updated>1694592573510</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update template">
+      <option name="closed" value="true" />
+      <created>1742260211968</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1742260211968</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update info" />
-    <option name="LAST_COMMIT_MESSAGE" value="update info" />
+    <MESSAGE value="update template" />
+    <option name="LAST_COMMIT_MESSAGE" value="update template" />
   </component>
 </project>
